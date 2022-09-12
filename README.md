@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL]()
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/meet-landing-page-YMeMLKguWU)
 - Live Site URL: [URL](https://lisviks.github.io/meet-landing-page-frontendmentor/)
 
 ## My process
